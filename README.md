@@ -13,6 +13,11 @@ Fog-Vision is a novel end-to-end framework for image-based visibility estimation
   - Accuracy: 97.7%
   - Precision: 97.2%
   - Recall: 95.2%
+## images
+# model strcuture
+![image](https://github.com/user-attachments/assets/05421640-e3ea-4b88-b489-624cd0b4e5c1)
+![image](https://github.com/user-attachments/assets/b9f5f945-828e-4080-9858-eceec077a984)
+![image](https://github.com/user-attachments/assets/f5ae24d3-10d9-4215-987f-3a02b6336f6c)
 
 ## Requirements(recommend to use conda )
 ```bash
@@ -31,11 +36,13 @@ the datasets structure will be follows：
 │   ├── train
 │   ├── val
 │   ├── test
-## Dataset
+## train
+without fog_vision
+```bash
+python train.py
+```
+with fog_vision
+```bash
+python train_fogvision.py
+```
 
-
-## images
-# model strcuture
-![image](https://github.com/user-attachments/assets/05421640-e3ea-4b88-b489-624cd0b4e5c1)
-![image](https://github.com/user-attachments/assets/b9f5f945-828e-4080-9858-eceec077a984)
-![image](https://github.com/user-attachments/assets/f5ae24d3-10d9-4215-987f-3a02b6336f6c)
