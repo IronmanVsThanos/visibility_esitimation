@@ -20,7 +20,7 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=
 pip install numpy
 pip install opencv-python
 pip install pillow
-```bash
+```
 
 ## Dataset
 The VED-8k dataset contains over 8,000 meticulously annotated visibility images. To access the dataset: Download from [dataset link]
