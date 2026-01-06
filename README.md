@@ -10,9 +10,9 @@ Fog-Vision is a novel end-to-end framework for image-based visibility estimation
   - Secondary Branch: Flexible backbone support (CNNs, Transformers)
 - Fog Feature Guided Attention (FFGA) module
 - State-of-the-art Performance:
-  - Accuracy: 97.7%
-  - Precision: 97.2%
-  - Recall: 95.2%
+  - Accuracy: 97.7%.
+  - Precision: 97.2%.
+  - Recall: 95.2%.
 ## images
 # model strcuture
 ![image](https://github.com/user-attachments/assets/05421640-e3ea-4b88-b489-624cd0b4e5c1)
